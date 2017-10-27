@@ -1,0 +1,12 @@
+{
+  "name": "auxywallet",
+  "displayName": "auxywallet",
+  "slug": "Auxy",
+  "icon":"./src/img/auxypic.png",
+  "android":{
+    "package":"com.auxy.wallet",
+    "versionCode":"1.0.0",
+    "icon":"./src/img/auxypic.png",
+    "permissions":["CAMERA", "ACCESS_FINE_LOCATION"]
+  }
+}
